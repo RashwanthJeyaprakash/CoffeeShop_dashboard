@@ -31,6 +31,7 @@ The goal was to:
 # Dashboard Snapshots
 
 ![Dashboard View 1](Dashboard_View.png)
+
 ![Dashboard View 2](Dashboard_View2.png)
 
 ---
