@@ -29,7 +29,7 @@ The goal was to:
 ---
 
 # Dashboard Snapshots
-
+--
 ![Dashboard View 1](screenshots/Dashboard_View.png) 
 
 --
