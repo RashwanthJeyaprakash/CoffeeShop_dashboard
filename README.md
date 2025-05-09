@@ -46,16 +46,16 @@ NOTE: dataset is sourced from Maven Analytics
 
 # Key Findings
 
-# Temporal Trends
+ **Temporal Trends**
 - Monthly revenue grew steadily, reaching **$166K in June** from **$76K in February**.
 - Weekdays (especially Mon & Fri)  saw higher transaction volumes.
 - Sundays were consistently the slowest days.
 
-# Hourly Patterns
+ **Hourly Patterns**
 - Most transactions occurred between 9 AM and 12 PM, confirming morning rush hours are key for sales.
 - Sales drop significantly after 4 PM.
 
-# Product & Category Insights
+ **Product & Category Insights**
 - Top Products:  
   - `Brewed Chai Tea`, `Gourmet Brewed Coffee`, `Barista Espresso`
 - Top Categories:  
