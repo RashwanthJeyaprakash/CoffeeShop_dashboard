@@ -30,15 +30,15 @@ The goal was to:
 
 # Dashboard Snapshots
 
-![Dashboard View 1](Dashboard_View.png)
+![Dashboard View 1](screenshots/Dashboard_View.png)
 
-![Dashboard View 2](Dashboard_View2.png)
+![Dashboard View 2](screenshots/Dashboard_View2.png)
 
 ---
 # DataSet Preview
 
 Screenshot of cleaned and structured dataset used:
-![Data Snapshot](Data_Preview.png)
+![Data Snapshot](screenshots/Data_Preview.png)
 
 NOTE: dataset is sourced from Maven Analytics
 
