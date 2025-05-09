@@ -30,7 +30,10 @@ The goal was to:
 
 # Dashboard Snapshots
 
-![Dashboard View 1](screenshots/Dashboard_View.png) ![Dashboard View 2](screenshots/Dashboard_View2.png)
+![Dashboard View 1](screenshots/Dashboard_View.png) 
+
+--
+![Dashboard View 2](screenshots/Dashboard_View2.png)
 
 ---
 # DataSet Preview
